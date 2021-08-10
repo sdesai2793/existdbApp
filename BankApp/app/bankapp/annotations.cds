@@ -1,1 +1,0 @@
-using BankDetails as service from '../../srv/bankInfo_srv';
